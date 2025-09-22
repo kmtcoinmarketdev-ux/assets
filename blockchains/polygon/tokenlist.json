@@ -126,6 +126,21 @@
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png",
             "pairs": []
         }
+        {
+    "asset": "c966_t0xE52AFD1A389EB334c4d84E9c2BADB921b67eA96d",
+    "type": "POLYGON",
+    "address": "0xe52AFD1A389EB334c4d84E9c2BADB921b67eA96d",
+    "name": "Ton_USD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://olive-cautious-gibbon-841.mypinata.cloud/ipfs/bafkreicz5wuxlii6dfv463q3jnwg6stwtjwds4qnswpuo6fhrdkx6rsq7q",
+    "pairs": [
+        {
+            "base": "0xe52AFD1A389EB334c4d84E9c2BADB921b67eA96d",
+            "quote": "0x0000000000000000000000000000000000001010"
+        }
+    ]
+        }
     ],
     "version": {
         "major": 6,
